@@ -56,7 +56,7 @@
     "pino": "^5.13.2",
     "pino-clf": "^1.0.6",
     "pino-pretty": "^3.2.1",
-    "source-map-support": "^0.5.13",
+    "source-map-support": "^0.5.16",
     "sse-express": "^1.0.2"
   },
   "devDependencies": {
