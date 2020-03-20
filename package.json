@@ -70,7 +70,7 @@
     "@babel/register": "^7.5.5",
     "babel-eslint": "10.0.3",
     "babel-plugin-istanbul": "^5.2.0",
-    "babel-plugin-root-import": "^6.4.1",
+    "babel-plugin-root-import": "^6.5.0",
     "babel-preset-env": "^1.7.0",
     "backpack-core": "^0.8.4",
     "chai": "*",
