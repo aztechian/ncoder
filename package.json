@@ -80,7 +80,7 @@
     "eslint-import-resolver-alias": "^1.1.2",
     "eslint-import-resolver-node": "^0.3.2",
     "eslint-plugin-import": "^2.18.2",
-    "jsdoc": "^3.6.3",
+    "jsdoc": "^3.6.4",
     "mocha": "^6.2.0",
     "mock-spawn": "*",
     "nock": "^10.0.6",
